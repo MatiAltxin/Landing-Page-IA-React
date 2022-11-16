@@ -1,4 +1,5 @@
 import "./ThirdComponent.scss";
+
 import user1 from "../assets/images/user1.jpg";
 import user2 from "../assets/images/user2.jpg";
 import user3 from "../assets/images/user3.jpg";

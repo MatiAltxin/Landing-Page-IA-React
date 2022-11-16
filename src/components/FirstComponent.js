@@ -18,7 +18,7 @@ export default () => {
     return (
         <Wrapper className="container-background">
             <Header/>
-            <section>
+            <section className="container-section">
                 <div className="box-container">
                     <h1>Life is Better with AI</h1>
 
